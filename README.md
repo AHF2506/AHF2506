@@ -3,7 +3,14 @@
 
 
 
-<h1><p align = "center" Hii Everyone!! Welcome to my Profile! 👋 ></p></h1>
+
+
+
+<h1 align = "center" Hii Everyone!! Welcome to my Profile! 👋 ></h1>
+
+
+
+
 
 
 ## 📌 About Me
@@ -11,7 +18,7 @@ Dedicated student with a passion for learning and growth.
 Enjoys exploring new areas, applying knowledge to practical challenges, and building skills.
 Open to new opportunities and adaptable to different fields. 
 
-
+<img src = "">
 ---
 
 ## 🛠 Skills
