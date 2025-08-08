@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-![Banner](https://i.ibb.co/4m3J8zD/github-banner.png)  
+![Banner](![Image](https://github.com/user-attachments/assets/75bed810-ffe8-4b87-a473-054b9fc7e86f))  
 
