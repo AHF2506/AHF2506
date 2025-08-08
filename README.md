@@ -14,7 +14,7 @@ I am open to learning new technologies and adapting to various fields in the fut
 
 ## 🛠 Skills
 <Img src = "https://github.com/user-attachments/assets/03813009-8000-4ff6-a758-3159381b3b93" alt = "Python Logo" Height = 90>
-<Img src = "https://github.com/user-attachments/assets/0d9f51d0-031b-49a2-9bb3-5ac5343d25c3" alt = "Java Logo" Height = 90>
+<Img src = "" alt = "Java Logo" Height = 90 width = 90>
 
 
 ---
