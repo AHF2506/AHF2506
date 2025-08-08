@@ -13,7 +13,9 @@ I am open to learning new technologies and adapting to various fields in the fut
 ---
 
 ## 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<Img src = "https://github.com/user-attachments/assets/03813009-8000-4ff6-a758-3159381b3b93" alt = "Python Logo" Height = 90>
+<Img src = "https://github.com/user-attachments/assets/03813009-8000-4ff6-a758-3159381b3b93" alt = "Java Logo" Height = 90>
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
