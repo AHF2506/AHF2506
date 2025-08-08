@@ -1,14 +1,14 @@
 
 ![Image](https://github.com/user-attachments/assets/75bed810-ffe8-4b87-a473-054b9fc7e86f)
 
-Welcome to my Profile ! 👋
+<h1><p align = "center" Hii Everyone!! Welcome to my Profile! 👋 ></p></h1>
 
 
 ## 📌 About Me
-I am a dedicated student with a strong interest in programming and technology.  
-I enjoy exploring different areas of computer science and applying what I learn to projects and challenges.  
-Currently, I am focused on strengthening my programming skills and understanding of algorithms.  
-I am open to learning new technologies and adapting to various fields in the future.  
+Dedicated student with a passion for learning and growth.
+Enjoys exploring new areas, applying knowledge to practical challenges, and building skills.
+Open to new opportunities and adaptable to different fields. 
+
 
 ---
 
